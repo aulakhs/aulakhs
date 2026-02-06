@@ -12,15 +12,15 @@
 
 ## 🎯 What I Do
 
-**I build AI agents**
+**I build AI agents.**
 
-With 15+ years deep in the Salesforce ecosystem and a CTA certification, I focus on creating intelligent systems that understand enterprise complexity. My work lives at the intersection of **Agentforce**, **RAG architectures**, **Prompt Engineering** and **Context Efficiency**.
+With 20+ years in the IT industry—much of it within the Salesforce ecosystem—I focus on creating intelligent systems that can navigate enterprise complexity. My work sits at the intersection of **Agentforce**, **Data Cloud**, **Systems Architecture**, **Prompt Engineering**, and **Context Efficiency**.
 
-I lead a team of PreSales Technical Architects dedicated to assisting customers in designing and implementing comprehensive data and AI strategies, leveraging the full capabilities of Salesforce's Data Cloud across **AMER**, **Canada**, and **LATAM**.
+I lead a team of PreSales Technical Architects who help customers design and implement end-to-end data and AI strategies, leveraging the full capabilities of Salesforce Data Cloud across the **U.S.** and **Canada**.
 
-My team possesses extensive expertise in **Data Platforms**, **Trusted AI**, and **AI-powered Agents**, enabling organizations to maximize the value of their data. We support customers across **Financial Services**, **Healthcare**, **Retail & Consumer Goods**, **Manufacturing**, **Automotive**, and **Energy** industries.
+Our team brings deep expertise in **Data Platforms**, **Trusted AI**, and **AI-powered Agents**, enabling organizations to maximize the value of their data. We support customers across **Financial Services**, **Healthcare and Life Sciences**, and **Insurance**.
 
-By providing strategic guidance, we help organizations drive innovation, scale AI adoption, and achieve meaningful business outcomes while staying at the forefront of technological advancements.
+Through strategic guidance and hands-on partnership, we help organizations drive innovation, scale AI adoption, and deliver meaningful business outcomes—while staying current with emerging technology.
 
 ---
 
