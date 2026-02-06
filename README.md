@@ -51,12 +51,11 @@ I also tinker with personal projects and automations that make my work (and life
 
 ## 🎨 Beyond Code
 
-When I'm not architecting data solutions, you'll find me:
+When I'm not building AI agents, you'll find me:
 
-- 📚 Reading about emerging AI trends
-- 🎮 Gaming
-- ✈️ Traveling and exploring new places
-- ☕ Enjoying a good cup of coffee
+- 🚣 Rowing
+- 🏃 Running
+- ☕ Being a coffee aficionado
 
 ---
 
