@@ -3,10 +3,10 @@
 **Director, Data+AI Architects @ Salesforce**<br>
 **Salesforce CTA**
 
-[![Twitter](https://img.shields.io/badge/Twitter-@your__handle-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your_handle)
+[![Twitter](https://img.shields.io/badge/X-@aulakhs__labs-000000?style=flat&logo=x&logoColor=white)](https://x.com/aulakhs_labs)
 [![GitHub](https://img.shields.io/badge/GitHub-aulakhs-181717?style=flat&logo=github&logoColor=white)](https://github.com/aulakhs)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sandeep%20Aulakh-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Location](https://img.shields.io/badge/📍-Your%20City-red?style=flat)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sandeep%20Aulakh-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aulakhsandeep/)
+[![Location](https://img.shields.io/badge/📍-New%20York%20City-red?style=flat)]()
 
 ---
 
@@ -77,7 +77,6 @@ When I'm not architecting data solutions, you'll find me:
 </p>
 
 <p align="center">
-  <a href="mailto:your.email@example.com">📧 Email</a> •
-  <a href="https://linkedin.com/in/your-profile">💼 LinkedIn</a> •
-  <a href="https://twitter.com/your_handle">🐦 Twitter</a>
+  <a href="https://www.linkedin.com/in/aulakhsandeep/">💼 LinkedIn</a> •
+  <a href="https://x.com/aulakhs_labs">𝕏 Twitter</a>
 </p>
