@@ -1,7 +1,6 @@
 # 👋 Hey, I'm Sandeep Aulakh
 
-**Director, Data+AI Architects @ Salesforce**<br>
-**Salesforce CTA**
+**Director, Data+AI Architects @ Salesforce**
 
 [![Twitter](https://img.shields.io/badge/X-@aulakhs__labs-000000?style=flat&logo=x&logoColor=white)](https://x.com/aulakhs_labs)
 [![GitHub](https://img.shields.io/badge/GitHub-aulakhs-181717?style=flat&logo=github&logoColor=white)](https://github.com/aulakhs)
