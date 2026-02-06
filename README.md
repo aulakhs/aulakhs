@@ -3,7 +3,7 @@
 **Director, Data+AI Architects @ Salesforce**
 
 [![Twitter](https://img.shields.io/badge/Twitter-@your__handle-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your_handle)
-[![GitHub](https://img.shields.io/badge/GitHub-saulakh-181717?style=flat&logo=github&logoColor=white)](https://github.com/saulakh)
+[![GitHub](https://img.shields.io/badge/GitHub-aulakhs-181717?style=flat&logo=github&logoColor=white)](https://github.com/aulakhs)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sandeep%20Aulakh-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Location](https://img.shields.io/badge/📍-Your%20City-red?style=flat)]()
 
@@ -23,11 +23,11 @@ I create solutions that bridge the gap between data infrastructure and AI capabi
 
 **My projects:**
 
-🔹 [**Project Name**](https://github.com/saulakh/project-name) — Brief description of what this project does
+🔹 [**Project Name**](https://github.com/aulakhs/project-name) — Brief description of what this project does
 
 `Tag1` `Tag2` `Tag3` `Tag4` `Tag5`
 
-🔹 [**Another Project**](https://github.com/saulakh/another-project) — Brief description of another project
+🔹 [**Another Project**](https://github.com/aulakhs/another-project) — Brief description of another project
 
 `AI` `Data` `Salesforce` `Integration`
 
@@ -62,11 +62,11 @@ When I'm not architecting data solutions, you'll find me:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saulakh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aulakhs&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saulakh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aulakhs&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
