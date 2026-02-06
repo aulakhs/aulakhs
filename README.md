@@ -1,6 +1,7 @@
 # 👋 Hey, I'm Sandeep Aulakh
 
-**Director, Data+AI Architects @ Salesforce**
+**Director, Data+AI Architects @ Salesforce**<br>
+**Salesforce CTA**
 
 [![Twitter](https://img.shields.io/badge/Twitter-@your__handle-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your_handle)
 [![GitHub](https://img.shields.io/badge/GitHub-aulakhs-181717?style=flat&logo=github&logoColor=white)](https://github.com/aulakhs)
@@ -11,9 +12,15 @@
 
 ## 🎯 What I Do
 
-**I architect Data + AI solutions**
+**I build AI agents**
 
-With deep expertise in enterprise architecture and AI/ML, I focus on building intelligent systems that transform how organizations leverage their data. My work lives at the intersection of **Data Architecture**, **AI/ML Engineering**, **Salesforce Platform**, and **Enterprise Integration**.
+With 15+ years deep in the Salesforce ecosystem and a CTA certification, I focus on creating intelligent systems that understand enterprise complexity. My work lives at the intersection of **Agentforce**, **RAG architectures**, **Prompt Engineering** and **Context Efficiency**.
+
+I lead a team of PreSales Technical Architects dedicated to assisting customers in designing and implementing comprehensive data and AI strategies, leveraging the full capabilities of Salesforce's Data Cloud across **AMER**, **Canada**, and **LATAM**.
+
+My team possesses extensive expertise in **Data Platforms**, **Trusted AI**, and **AI-powered Agents**, enabling organizations to maximize the value of their data. We support customers across **Financial Services**, **Healthcare**, **Retail & Consumer Goods**, **Manufacturing**, **Automotive**, and **Energy** industries.
+
+By providing strategic guidance, we help organizations drive innovation, scale AI adoption, and achieve meaningful business outcomes while staying at the forefront of technological advancements.
 
 ---
 
