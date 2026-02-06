@@ -26,19 +26,13 @@ By providing strategic guidance, we help organizations drive innovation, scale A
 
 ## 🚀 What I'm Building
 
-I create solutions that bridge the gap between data infrastructure and AI capabilities.
+Mostly web apps and AI agents using Salesforce tech — Data Cloud, Agentforce, Apex, LWC, and whatever else gets the job done.
 
-**My projects:**
+I also tinker with personal projects and automations that make my work (and life) a little easier. Always experimenting, always testing out the latest tools and tech to see what sticks.
 
-🔹 [**Project Name**](https://github.com/aulakhs/project-name) — Brief description of what this project does
+`Data Cloud` `Agentforce` `Apex` `LWC` `AI Agents` `Automation`
 
-`Tag1` `Tag2` `Tag3` `Tag4` `Tag5`
-
-🔹 [**Another Project**](https://github.com/aulakhs/another-project) — Brief description of another project
-
-`AI` `Data` `Salesforce` `Integration`
-
-> *"Building the bridge between data and intelligence"*
+> *"Keep innovating, keep learning"*
 
 ---
 
