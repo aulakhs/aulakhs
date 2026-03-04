@@ -13,19 +13,19 @@
 
 **I build AI agents.**
 
-With 20+ years in the IT industry—much of it within the Salesforce ecosystem—I focus on creating intelligent systems that can navigate enterprise complexity. My work sits at the intersection of **Agentforce**, **Data Cloud**, **Systems Architecture**, **Prompt Engineering**, and **Context Efficiency**.
+With 20+ years in the IT industry, much of it within the Salesforce ecosystem, I focus on creating intelligent systems that can navigate enterprise complexity. My work sits at the intersection of **Agentforce**, **Data Cloud**, **Systems Architecture**, **Prompt Engineering**, and **Context Efficiency**.
 
 I lead a team of PreSales Technical Architects who help customers design and implement end-to-end data and AI strategies, leveraging the full capabilities of Salesforce Data Cloud across the **U.S.** and **Canada**.
 
 Our team brings deep expertise in **Data Platforms**, **Trusted AI**, and **AI-powered Agents**, enabling organizations to maximize the value of their data. We support customers across **Financial Services**, **Healthcare and Life Sciences**, and **Insurance**.
 
-Through strategic guidance and hands-on partnership, we help organizations drive innovation, scale AI adoption, and deliver meaningful business outcomes—while staying current with emerging technology.
+Through strategic guidance and hands-on partnership, we help organizations drive innovation, scale AI adoption, and deliver meaningful business outcomes, while staying current with emerging technology.
 
 ---
 
 ## 🚀 What I'm Building
 
-Mostly web apps and AI agents using Salesforce tech — Data Cloud, Agentforce, Apex, LWC, and whatever else gets the job done.
+Mostly web apps and AI agents using Salesforce tech, Data Cloud, Agentforce, Apex, LWC, and whatever else gets the job done.
 
 I also tinker with personal projects and automations that make my work (and life) a little easier. Always experimenting, always testing out the latest tools and tech to see what sticks.
 
